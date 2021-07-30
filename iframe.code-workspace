@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "child-iframe-demo-react"
+		},
+		{
+			"path": "parent-iframe-demo-angularjs"
+		}
+	],
+	"settings": {}
+}

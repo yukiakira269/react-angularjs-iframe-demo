@@ -1,0 +1,35 @@
+:root {
+  --w: 100%;
+}
+
+.modal {
+  margin-top: 5% !important;
+  padding: 0 !important;
+  width: 100vw !important;
+}
+.modalDialog {
+  margin: auto;
+  width: var(--w);
+  height: auto;
+}
+.modalHeader {
+  width: var(--w);
+  height: 5vh !important;
+  background-color: #2e2d2d;
+  color: whitesmoke;
+}
+.modalBody {
+  text-align: left;
+  width: var(--w);
+  margin: 0 !important;
+  border: solid black 2px;
+}
+.modalButton {
+  margin-top: 5%;
+  margin-left: 60%;
+  margin-right: 0;
+}
+
+.modalButton Button{
+  margin: 2%;
+}
